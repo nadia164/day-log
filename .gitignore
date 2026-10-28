@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Build output (recreated by `python build.py`)
+build/
+dist/
+installer_output/
+assets/
